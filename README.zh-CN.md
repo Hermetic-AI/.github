@@ -1,10 +1,6 @@
 # Hermetic-AI
 
-**🌐 [English](./README.en.md) · [中文](./README.zh-CN.md)**
-
----
-
-> *探索 AI Agent 的无限边界 —— 架构中立、高度组合、化繁为简。*
+> 探索 AI Agent 的无限边界 —— 架构中立、高度组合、化繁为简。
 
 ---
 
@@ -45,7 +41,3 @@
 ## 📜 许可证
 
 本项目群及未来发布的核心开源组件，均默认遵循 **Apache License 2.0** 协议。鼓励社区共建、探索与商业化落地。
-
----
-
-<p align="right"><sub>🌐 <a href="./README.en.md">English</a> · <a href="./README.zh-CN.md">中文</a></sub></p>
