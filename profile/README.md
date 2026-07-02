@@ -1,14 +1,14 @@
-<div align="right">
-
-**[🌐 English](./README.md) · [中文](./README.zh-CN.md)**
-
-</div>
 
 ---
 
 # Hermetic-AI
 
 > *Exploring the infinite boundaries of AI Agents — architecture-neutral, highly composable, elegantly simple.*
+<div align="mid">
+
+**[🌐 English](./README.md) · [中文](./README.zh-CN.md)**
+
+</div>
 
 ---
 
