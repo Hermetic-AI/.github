@@ -1,4 +1,12 @@
 
+<div align="right">
+
+**[🌐 English](./README.md) · [中文](./README.zh-CN.md)**
+
+</div>
+
+---
+
 # Hermetic-AI
 
 > Exploring the infinite boundaries of AI Agents — Architecture-neutral, highly composable, and elegantly simple.
@@ -42,3 +50,11 @@ No matter how the ecosystem evolves, all the infrastructure we produce strictly 
 ## 📜 License
 
 This project group and our future core open-source components are licensed under the **Apache License 2.0**. We encourage community collaboration, exploration, and commercial implementation.
+
+---
+
+<div align="right">
+
+**[🌐 English](./README.md) · [中文](./README.zh-CN.md)**
+
+</div>
